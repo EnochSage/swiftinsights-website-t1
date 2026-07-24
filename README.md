@@ -63,5 +63,5 @@ Swift Insights helps retail companies transform information into confident busin
 The live website is hosted on Base44:
 
 - Platform: Base44
-- Live URL: `https://swift-insights-data-pulse.base44.app`
+- Live URL: https://swift-insights-data-pulse.base44.app 
 - Website type: AI-assisted no-code business website
